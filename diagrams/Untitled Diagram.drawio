@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tr8ifOOKFcQNZzUoNoFY" name="Page-2">
-    <mxGraphModel dx="1178" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,8 +273,53 @@
             <mxPoint x="220" y="489.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-HP1DvxonZT7zTW284u-41" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="К стр" vertex="1">
+        <mxCell id="m-HP1DvxonZT7zTW284u-41" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="&amp;nbsp;К стр. 6" vertex="1">
           <mxGeometry height="50" width="50" x="220" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=none;endFill=0;fontSize=14;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="557.5" as="sourcePoint" />
+            <mxPoint x="220" y="557.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-43" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="&amp;nbsp;Из стр. 5" vertex="1">
+          <mxGeometry height="50" width="50" x="220" y="533" as="geometry" />
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-44" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=none;endFill=0;fontSize=14;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="489.5" as="sourcePoint" />
+            <mxPoint x="440" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-45" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="&amp;nbsp;К стр. 6" vertex="1">
+          <mxGeometry height="50" width="50" x="440" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-46" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=none;endFill=0;fontSize=14;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="559.5" as="sourcePoint" />
+            <mxPoint x="440" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="&amp;nbsp;Из стр. 5" vertex="1">
+          <mxGeometry height="50" width="50" x="440" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-48" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=none;endFill=0;fontSize=14;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="489.5" as="sourcePoint" />
+            <mxPoint x="730" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-49" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="&amp;nbsp;К стр. 6" vertex="1">
+          <mxGeometry height="50" width="50" x="730" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-57" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=none;endFill=0;fontSize=14;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="554.5" as="sourcePoint" />
+            <mxPoint x="730" y="554.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-HP1DvxonZT7zTW284u-58" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;strokeColor=#000000;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=#ffffff;" value="&amp;nbsp;Из стр. 5" vertex="1">
+          <mxGeometry height="50" width="50" x="730" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
