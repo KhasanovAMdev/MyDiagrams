@@ -922,7 +922,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3sp9taJfOD_rYub8Kng" name="Page-8">
-    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1003,17 +1003,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e13" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;fontSize=14;endFill=1;" target="14" value="Да">
-          <mxGeometry relative="1" x="-0.1748" y="20" as="geometry">
+          <mxGeometry relative="1" x="-0.2587" y="-20" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="570" y="545" />
-              <mxPoint x="570" y="1030" />
+              <mxPoint x="590" y="545" />
+              <mxPoint x="590" y="1030" />
               <mxPoint x="460" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e14" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="15" value="Нет">
-          <mxGeometry relative="1" x="0.0395" y="-20" as="geometry">
+          <mxGeometry relative="1" x="0.0658" y="-20" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="840" y="545" />
@@ -1636,214 +1636,214 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="180" x="360" y="40" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Входные параметры:&amp;nbsp;&lt;div&gt;агрегат, дата начала,&amp;nbsp;&lt;/div&gt;&lt;div&gt;дата окончания&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="130" as="geometry" />
+        <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;align=center;verticalAlign=middle;aspect=fixed;" value="Вход. параметры:&amp;nbsp;&lt;div&gt;агрегат, дата начала,&amp;nbsp;&lt;/div&gt;&lt;div&gt;дата окончания&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="425" y="140" as="geometry" />
         </mxCell>
         <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Нормализовать границы периода" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="230" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="270" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Построить иерархию технических мест: для каждого ТМ найти родителя верхнего уровня" vertex="1">
-          <mxGeometry height="70" width="320" x="290" y="330" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="380" as="geometry" />
         </mxCell>
         <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Выбрать классифицированные простои за период без сопутствующих" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="440" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="490" as="geometry" />
         </mxCell>
         <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Усечь границы по периоду, заменить ТМ на родительское верхнего уровня" vertex="1">
-          <mxGeometry height="70" width="320" x="290" y="540" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="599" as="geometry" />
         </mxCell>
         <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Сгруппировать по причине и ТМ верхнего уровня" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="650" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="706" as="geometry" />
         </mxCell>
         <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Сформировать верхнюю иерархию:&amp;nbsp;&lt;div&gt;группы «вид + тип», отсортировать по убыванию длительности&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="320" x="290" y="750" as="geometry" />
+          <mxGeometry height="85" width="170" x="430" y="813" as="geometry" />
         </mxCell>
         <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Добавить строку «Итого»" vertex="1">
-          <mxGeometry height="60" width="320" x="670" y="130" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="79" as="geometry" />
         </mxCell>
         <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Для каждой группы «вид + тип» добавить детализацию" vertex="1">
-          <mxGeometry height="60" width="320" x="670" y="230" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Группа = 2133?" vertex="1">
-          <mxGeometry height="80" width="320" x="670" y="330" as="geometry" />
+        <mxCell id="12" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Группа = 2133?&lt;br&gt;(оборудование)" vertex="1">
+          <mxGeometry height="160" width="160" x="750" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Детализация по техническим местам" vertex="1">
-          <mxGeometry height="60" width="320" x="670" y="30" as="geometry" />
+        <mxCell id="13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Детализация по техническим местам" vertex="1">
+          <mxGeometry height="85" width="170" x="745" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Детализация по причинам простоев" vertex="1">
-          <mxGeometry height="60" width="320" x="670" y="450" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="513" as="geometry" />
         </mxCell>
         <mxCell id="15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Сформировать иерархическую нумерацию: 1, 1.1, 1.2, 2, 2.1..." vertex="1">
-          <mxGeometry height="60" width="320" x="670" y="550" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="630" as="geometry" />
         </mxCell>
         <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Рассчитать долю каждой строки в процентах от суммарного времени простоев" vertex="1">
-          <mxGeometry height="70" width="320" x="670" y="650" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="750" as="geometry" />
         </mxCell>
         <mxCell id="17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Результат:&amp;nbsp;&lt;div&gt;№ п/п, виды/типы/факторы, часы,&lt;/div&gt;&lt;div&gt;&amp;nbsp;%, норма, потери, причины&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="320" x="670" y="760" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="870" as="geometry" />
         </mxCell>
         <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="180" x="740" y="870" as="geometry" />
+          <mxGeometry height="85" width="170" x="745" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
+        <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2" edge="1" parent="1" source="3" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="4">
+        <mxCell id="e2" edge="1" parent="1" source="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3" edge="1" parent="1" source="4" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="5">
+        <mxCell id="e3" edge="1" parent="1" source="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e4" edge="1" parent="1" source="5" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="6">
+        <mxCell id="e4" edge="1" parent="1" source="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e5" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="7">
+        <mxCell id="e5" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6" edge="1" parent="1" source="7" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="8">
+        <mxCell id="e6" edge="1" parent="1" source="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e7" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="9">
+        <mxCell id="e7" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8" edge="1" parent="1" source="9" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="10">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="e8" edge="1" parent="1" source="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="10">
+          <mxGeometry relative="1" x="-0.0766" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="785" />
-              <mxPoint x="640" y="160" />
+              <mxPoint x="640" y="860" />
+              <mxPoint x="640" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="11">
+        <mxCell id="e9" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e10" edge="1" parent="1" source="11" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="12">
+        <mxCell id="e10" edge="1" parent="1" source="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e11" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;endFill=1;" target="13" value="Да">
-          <mxGeometry relative="1" x="-0.9759" y="20" as="geometry">
+        <mxCell id="e11" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endFill=1;" target="13" value="Да">
+          <mxGeometry relative="1" x="-0.3994" y="20" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1020" y="370" />
-              <mxPoint x="1020" y="100" />
-              <mxPoint x="600" y="100" />
-              <mxPoint x="600" y="60" />
+              <mxPoint x="960" y="400" />
+              <mxPoint x="960" y="60" />
+              <mxPoint x="690" y="60" />
+              <mxPoint x="690" y="-17.5" />
             </Array>
-            <mxPoint x="670" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e12" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;fontSize=14;endFill=1;" target="14" value="Нет">
-          <mxGeometry relative="1" y="-40" as="geometry">
+        <mxCell id="e12" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;fontSize=14;endFill=1;" target="14" value="Нет">
+          <mxGeometry relative="1" x="-0.3939" y="-30" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e13" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" target="15">
-          <mxGeometry relative="1" x="-0.2063" as="geometry">
+        <mxCell id="e13" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0.999;entryY=0.482;entryDx=0;entryDy=0;entryPerimeter=0;" target="15">
+          <mxGeometry relative="1" x="-0.2057" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="60" />
-              <mxPoint x="1050" y="580" />
+              <mxPoint x="1000" y="-17.5" />
+              <mxPoint x="1000" y="671" />
             </Array>
+            <mxPoint x="950" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e14" edge="1" parent="1" source="14" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="15">
+        <mxCell id="e14" edge="1" parent="1" source="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e15" edge="1" parent="1" source="15" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="16">
+        <mxCell id="e15" edge="1" parent="1" source="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e16" edge="1" parent="1" source="16" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="17">
+        <mxCell id="e16" edge="1" parent="1" source="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e17" edge="1" parent="1" source="17" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="18">
+        <mxCell id="e17" edge="1" parent="1" source="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="eMYDyjbo6CQ1rrUifbln" name="Page-15">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="180" x="360" y="40" as="geometry" />
+          <mxGeometry height="85" width="170" x="420" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Входные параметры:&amp;nbsp;&lt;div&gt;агрегат,&amp;nbsp;&lt;/div&gt;&lt;div&gt;дата начала, дата окончания&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="130" as="geometry" />
+          <mxGeometry height="85" width="170" x="420" y="109" as="geometry" />
         </mxCell>
         <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Нормализовать границы периода: начало дня и конец дня (23:59:59)" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="230" as="geometry" />
+          <mxGeometry height="85" width="170" x="420" y="218" as="geometry" />
         </mxCell>
         <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Выбрать классифицированные простои, пересекающие период, без сопутствующих" vertex="1">
-          <mxGeometry height="70" width="320" x="290" y="330" as="geometry" />
+          <mxGeometry height="85" width="170" x="420" y="323" as="geometry" />
         </mxCell>
         <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Усечь границы интервалов по периоду" vertex="1">
-          <mxGeometry height="60" width="320" x="290" y="440" as="geometry" />
+          <mxGeometry height="85" width="170" x="420" y="428" as="geometry" />
         </mxCell>
         <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Сгруппировать по причине простоя: суммировать план (DefaultDuration) и факт (в секундах)" vertex="1">
-          <mxGeometry height="70" width="320" x="290" y="540" as="geometry" />
+          <mxGeometry height="85" width="170" x="420" y="533" as="geometry" />
         </mxCell>
         <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Соединить со справочниками видов и типов простоя" vertex="1">
-          <mxGeometry height="60" width="320" x="650" y="35" as="geometry" />
+          <mxGeometry height="85" width="170" x="700" y="18" as="geometry" />
         </mxCell>
         <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Сгруппировать по виду и типу простоя" vertex="1">
-          <mxGeometry height="60" width="320" x="650" y="135" as="geometry" />
+          <mxGeometry height="85" width="170" x="700" y="123" as="geometry" />
         </mxCell>
         <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Добавить строку «Итого» с суммарной длительностью" vertex="1">
-          <mxGeometry height="60" width="320" x="650" y="235" as="geometry" />
+          <mxGeometry height="85" width="170" x="700" y="228" as="geometry" />
         </mxCell>
         <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Добавить строку «в т.ч. нерегламентированные» (типы 33, 34, 35)" vertex="1">
-          <mxGeometry height="60" width="320" x="650" y="335" as="geometry" />
+          <mxGeometry height="85" width="170" x="700" y="333" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Отсортировать: внутренний, внешний, аварийный, классифицированный, итого, нерегламентированные" vertex="1">
-          <mxGeometry height="70" width="320" x="650" y="435" as="geometry" />
+        <mxCell id="12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Отсортировать данные" vertex="1">
+          <mxGeometry height="85" width="170" x="700" y="438" as="geometry" />
         </mxCell>
         <mxCell id="13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Результат:&amp;nbsp;&lt;div&gt;вид простоя, тип простоя,&amp;nbsp;&lt;/div&gt;&lt;div&gt;план (ч), факт (ч)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="320" x="650" y="545" as="geometry" />
+          <mxGeometry height="85" width="170" x="700" y="548" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="180" x="720" y="645" as="geometry" />
+          <mxGeometry height="85" width="170" x="700" y="653" as="geometry" />
         </mxCell>
-        <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
+        <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2" edge="1" parent="1" source="3" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="4">
+        <mxCell id="e2" edge="1" parent="1" source="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3" edge="1" parent="1" source="4" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="5">
+        <mxCell id="e3" edge="1" parent="1" source="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e4" edge="1" parent="1" source="5" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="6">
+        <mxCell id="e4" edge="1" parent="1" source="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e5" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="7">
+        <mxCell id="e5" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6" edge="1" parent="1" source="7" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="8">
+        <mxCell id="e6" edge="1" parent="1" source="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="575" />
-              <mxPoint x="630" y="65" />
+              <mxPoint x="645" y="575" />
+              <mxPoint x="645" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="9">
+        <mxCell id="e7" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8" edge="1" parent="1" source="9" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="10">
+        <mxCell id="e8" edge="1" parent="1" source="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="11">
+        <mxCell id="e9" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e10" edge="1" parent="1" source="11" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="12">
+        <mxCell id="e10" edge="1" parent="1" source="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e11" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="13">
+        <mxCell id="e11" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e12" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="14">
+        <mxCell id="e12" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
