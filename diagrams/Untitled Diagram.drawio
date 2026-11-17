@@ -922,7 +922,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k3sp9taJfOD_rYub8Kng" name="Page-8">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,7 +939,7 @@
           <mxGeometry height="160" width="160" x="380" y="320" as="geometry" />
         </mxCell>
         <mxCell id="70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1.5;fontSize=14;shape=partialRectangle;bottom=1;right=1;left=1;top=0;routingCenterX=-0.5;direction=south;" value="Подсистемы: ДСП-40, ДСП-25, МНЛЗ, стан 250, ЭШП-12…15" vertex="1">
-          <mxGeometry height="110" width="100" x="640" y="270" as="geometry" />
+          <mxGeometry height="110" width="100" x="640" y="250" as="geometry" />
         </mxCell>
         <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Удалить классификации записей, отсутствующих или изменённых в источнике" vertex="1">
           <mxGeometry height="85" width="170" x="375" y="540" as="geometry" />
@@ -977,7 +977,7 @@
           <mxGeometry relative="1" x="-0.0024" as="geometry" />
         </mxCell>
         <mxCell id="e6" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;fontSize=14;endFill=1;" target="7" value="Да">
-          <mxGeometry relative="1" y="-20" as="geometry">
+          <mxGeometry relative="1" x="-0.3333" y="-20" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -997,7 +997,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e11" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;labelBackgroundColor=#ffffff;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endFill=1;" target="13" value="Нет">
-          <mxGeometry relative="1" x="-1" y="-25" as="geometry">
+          <mxGeometry relative="1" x="-0.2653" y="20" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="460" y="1045" as="targetPoint" />
           </mxGeometry>
