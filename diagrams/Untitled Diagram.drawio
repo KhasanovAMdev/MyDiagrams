@@ -2080,7 +2080,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1AfypMh7Ym64uwmF5G9Z" name="Page-20">
-    <mxGraphModel dx="2049" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2106,10 +2106,10 @@
           <mxGeometry height="100" width="150" x="635" y="43" as="geometry" />
         </mxCell>
         <mxCell id="9" parent="1" style="shape=label;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;rounded=0;" value="Проверить пересечения через GetOverlappingIntervals" vertex="1">
-          <mxGeometry height="100" width="150" x="640" y="153" as="geometry" />
+          <mxGeometry height="100" width="150" x="635" y="153" as="geometry" />
         </mxCell>
         <mxCell id="10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Обнаружены&amp;nbsp;&lt;div&gt;пересечения с&amp;nbsp;&lt;div&gt;другими&amp;nbsp;&lt;/div&gt;&lt;div&gt;интервалами?&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="625" y="280" as="geometry" />
+          <mxGeometry height="120" width="180" x="620" y="280" as="geometry" />
         </mxCell>
         <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Вывести список пересечений и запросить подтверждение" vertex="1">
           <mxGeometry height="100" width="150" x="865" y="290" as="geometry" />
@@ -2118,13 +2118,13 @@
           <mxGeometry height="100" width="150" x="865" y="440" as="geometry" />
         </mxCell>
         <mxCell id="13" parent="1" style="shape=label;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;rounded=0;" value="Сохранить изменения через&lt;div&gt;UpdateDTPeriod&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="150" x="640" y="440" as="geometry" />
+          <mxGeometry height="100" width="150" x="635" y="440" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Обновить списки и пересчитать показатели классификации" vertex="1">
-          <mxGeometry height="100" width="150" x="640" y="560.5" as="geometry" />
+          <mxGeometry height="100" width="150" x="635" y="560.5" as="geometry" />
         </mxCell>
-        <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Конец" vertex="1">
-          <mxGeometry height="60" width="120" x="655" y="710" as="geometry" />
+        <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
+          <mxGeometry height="50" width="100" x="660" y="710" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -2164,7 +2164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e8" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;">
-          <mxGeometry relative="1" x="-0.3286" as="geometry">
+          <mxGeometry relative="1" x="-0.3265" as="geometry">
             <Array as="points">
               <mxPoint x="785" y="80" />
               <mxPoint x="1050" y="80" />
@@ -2172,7 +2172,7 @@
               <mxPoint x="640" y="785" />
               <mxPoint x="640" y="680" />
             </Array>
-            <mxPoint x="714.74" y="679.86" as="targetPoint" />
+            <mxPoint x="710" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9" edge="1" parent="1" source="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="10">
@@ -2197,12 +2197,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e14" edge="1" parent="1" source="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=block;endFill=1;labelBackgroundColor=#ffffff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" value="Нет">
-          <mxGeometry relative="1" x="-0.6471" y="-20" as="geometry">
+          <mxGeometry relative="1" x="-0.6541" y="-20" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="940" y="680" />
             </Array>
-            <mxPoint x="715.86" y="679.86" as="targetPoint" />
+            <mxPoint x="710" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e15" edge="1" parent="1" source="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="14">
