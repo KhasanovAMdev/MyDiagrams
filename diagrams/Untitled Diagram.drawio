@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JJs9rL6hBDnVr8HUNvdB" name="Page-6">
-    <mxGraphModel dx="2079" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,7 +548,7 @@
           <mxGeometry height="100" width="150" x="245.91" y="1985" as="geometry" />
         </mxCell>
         <mxCell id="23" parent="oHIxUqcnlNypFg4WTCUC-25" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="270.42" y="2107" as="geometry" />
+          <mxGeometry height="40" width="120" x="260.42" y="2107" as="geometry" />
         </mxCell>
         <mxCell id="e5" edge="1" parent="oHIxUqcnlNypFg4WTCUC-25" source="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="7">
           <mxGeometry relative="1" as="geometry" />
@@ -729,12 +729,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t0GeViOOz5i70ObeVcMT" name="Page-7">
-    <mxGraphModel dx="1704" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="340" y="-55" as="geometry" />
+          <mxGeometry height="40" width="120" x="330" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Действие&lt;div&gt;пользователя&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="330" y="30" as="geometry" />
@@ -764,7 +764,7 @@
           <mxGeometry height="80" width="120" x="330" y="630" as="geometry" />
         </mxCell>
         <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="340" y="745" as="geometry" />
+          <mxGeometry height="40" width="120" x="330" y="750" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -831,7 +831,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="410" y="70" as="geometry" />
+          <mxGeometry height="40" width="120" x="400" y="80" as="geometry" />
         </mxCell>
         <mxCell id="B1PetYfV4xHK5U33-TyE-71" edge="1" parent="1" source="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -870,7 +870,7 @@
           <mxGeometry height="100" width="150" x="385" y="1072" as="geometry" />
         </mxCell>
         <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="410" y="1257" as="geometry" />
+          <mxGeometry height="40" width="120" x="400" y="1257" as="geometry" />
         </mxCell>
         <mxCell id="e2" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4">
           <mxGeometry relative="1" as="geometry">
@@ -1335,12 +1335,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kGBQt4SUFUdYc3oNKGfu" name="Page-14">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2079" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="465" y="21" as="geometry" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="455" y="31" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;align=center;verticalAlign=middle;aspect=fixed;" value="Вход. парам-ы:&amp;nbsp;&lt;div&gt;агрегат,&lt;/div&gt;&lt;div&gt;&amp;nbsp;дата начала,&amp;nbsp;&lt;/div&gt;&lt;div&gt;дата окончания&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="440" y="110" as="geometry" />
@@ -1388,7 +1388,7 @@
           <mxGeometry height="100" width="150" x="755" y="862" as="geometry" />
         </mxCell>
         <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="780" y="990" as="geometry" />
+          <mxGeometry height="40" width="120" x="770" y="990" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -1467,12 +1467,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eMYDyjbo6CQ1rrUifbln" name="Page-15">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="455" y="20" as="geometry" />
+          <mxGeometry height="40" width="120" x="445" y="23" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Входн. парам-ы:&amp;nbsp;&lt;div&gt;агрегат,&amp;nbsp;&lt;/div&gt;&lt;div&gt;дата начала, дата окончания&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="430" y="90" as="geometry" />
@@ -1507,8 +1507,8 @@
         <mxCell id="13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Результат:&amp;nbsp;&lt;div&gt;вид простоя,&amp;nbsp;&lt;/div&gt;&lt;div&gt;тип простоя,&amp;nbsp;&lt;/div&gt;&lt;div&gt;план (ч),&lt;/div&gt;&lt;div&gt;факт (ч)&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="710" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="735" y="730" as="geometry" />
+        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="725" y="730" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -1555,12 +1555,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dm7cklzHrDzVRuJmlJG3" name="Page-16">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="400" y="-7.5" as="geometry" />
+          <mxGeometry height="40" width="120" x="390" y="-7.5" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Входн. парам-ы:&amp;nbsp;&lt;div&gt;дата начала,&amp;nbsp;&lt;/div&gt;&lt;div&gt;дата окончания&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="375" y="77.5" as="geometry" />
@@ -1587,7 +1587,7 @@
           <mxGeometry height="100" width="150" x="640" y="287.5" as="geometry" />
         </mxCell>
         <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="665" y="410" as="geometry" />
+          <mxGeometry height="40" width="120" x="655" y="410" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -1625,12 +1625,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8Bh9igVkEPOsAsCPXNf2" name="Page-17">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="400" y="-70" as="geometry" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="390" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Вход:&amp;nbsp;&lt;div&gt;список класс.&amp;nbsp;&lt;/div&gt;&lt;div&gt;простоев, период,&amp;nbsp;&lt;/div&gt;&lt;div&gt;признак&amp;nbsp;&lt;/div&gt;&lt;div&gt;усечения&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="375" y="25" as="geometry" />
@@ -1675,7 +1675,7 @@
           <mxGeometry height="100" width="150" x="375" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="400" y="1760" as="geometry" />
+          <mxGeometry height="40" width="120" x="390" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -1850,7 +1850,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="400" y="-40" as="geometry" />
+          <mxGeometry height="40" width="120" x="390" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Входн. данные:&amp;nbsp;&lt;div&gt;список техн. мест,&amp;nbsp;&lt;/div&gt;&lt;div&gt;наим. агрегата&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="375" y="50" as="geometry" />
@@ -1891,8 +1891,8 @@
         <mxCell id="16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Сохранить файл, предложить открыть" vertex="1">
           <mxGeometry height="100" width="150" x="180" y="1022" as="geometry" />
         </mxCell>
-        <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="470" y="1047" as="geometry" />
+        <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="460" y="1052" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -1985,12 +1985,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1xZnyqeIUaS8WrrK5LAW" name="Page-19">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="390" y="50" as="geometry" />
+          <mxGeometry height="40" width="120" x="380" y="50" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Получить имя пользователя Windows" vertex="1">
           <mxGeometry height="100" width="150" x="365" y="120" as="geometry" />
@@ -2023,7 +2023,7 @@
           <mxGeometry height="100" width="150" x="365" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="390" y="1240" as="geometry" />
+          <mxGeometry height="40" width="120" x="380" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -2080,12 +2080,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1AfypMh7Ym64uwmF5G9Z" name="Page-20">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="355" y="-7" as="geometry" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="345" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Оператор&lt;div&gt;выбирает&lt;div&gt;интервал&lt;/div&gt;&lt;div&gt;классификации&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="330" y="70" as="geometry" />
@@ -2124,7 +2124,7 @@
           <mxGeometry height="100" width="150" x="635" y="560.5" as="geometry" />
         </mxCell>
         <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
-          <mxGeometry height="50" width="100" x="660" y="710" as="geometry" />
+          <mxGeometry height="40" width="120" x="650" y="710" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -2215,12 +2215,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zwoxlNlog4M7DnYG5EWy" name="Page-21">
-    <mxGraphModel dx="2079" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2438" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Начало" vertex="1">
-          <mxGeometry height="50" width="100" x="390" as="geometry" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="10" as="geometry" />
         </mxCell>
         <mxCell id="3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Оператор&lt;div&gt;выбирает&lt;/div&gt;&lt;div&gt;интервал&lt;div&gt;классификации&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="365" y="92" as="geometry" />
@@ -2249,8 +2249,8 @@
         <mxCell id="11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Вывести сообщение об успешном удалении" vertex="1">
           <mxGeometry height="100" width="150" x="365" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;aspect=fixed;" value="Конец" vertex="1">
-          <mxGeometry height="60" width="120" x="380" y="1110" as="geometry" />
+        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontSize=14;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -2275,12 +2275,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e7" edge="1" parent="1" source="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;">
-          <mxGeometry relative="1" x="-0.004" as="geometry">
+          <mxGeometry relative="1" x="-0.017" as="geometry">
             <Array as="points">
               <mxPoint x="675" y="570" />
-              <mxPoint x="675" y="1080" />
+              <mxPoint x="675" y="1090" />
+              <mxPoint x="440" y="1090" />
             </Array>
-            <mxPoint x="440" y="1080" as="targetPoint" />
+            <mxPoint x="440" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e8" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=1.5;endArrow=classic;fontSize=14;endFill=1;" target="9">
